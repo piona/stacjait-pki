@@ -68,7 +68,7 @@ serwer otwiera port 8443)
     Using default temp DH parameters
     ACCEPT
 
-W przeglądarce pod adresem <https://localhost:4443> powinna pokazać się strona
+W przeglądarce pod adresem <https://localhost:8443> powinna pokazać się strona
 ostrzegająca o zagrożeniu bezpieczeństwa. Oczywiście **nie kontynuujemy** 😉
 
 Jeśli wynik jest inny to niewykluczone, że jakaś aplikacja działa już na porcie
